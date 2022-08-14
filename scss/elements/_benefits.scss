@@ -7,7 +7,7 @@
 .benefits-description:not(:last-child) {
   border: 2px solid $colorLightGray;
   background-color: white;
-  padding: 3em 1.5em;
+  padding: 1.5em 1.5em;
   border-radius: 6px;
   h2 {
     font-size: 1.8em;
@@ -30,6 +30,12 @@
 .benefits-description:last-child {
   border: 2px solid $colorLightGray;
   border-radius: 6px;
+  @include tablet {
+    @include letFlex(row, center, center);
+    height: 280px;
+    width: 100%;
+    gap: 2.5em;
+  }
   h2 {
     font-size: 1.8em;
     font-family: $raleway;
@@ -46,22 +52,25 @@
 .trumpet-wrapper {
   background-color: $colorGreen;
   border-radius: 6px;
+  padding: 2em 2em;
+  @include tablet {
+    height: 100%;
+    @include letFlex(row, center, center);
+  }
 }
 
 .txt-wrapper {
   background-color: white;
   padding: 2.5em 1em;
   border-radius: 6px;
+  @include tablet {
+    height: 100%;
+  }
 }
 
 .benefits-text {
   @include tablet {
     @include letFlex(column, center, flex-start);
-  }
-  p {
-    @include tablet {
-      width: 70%;
-    }
   }
 }
 
@@ -70,10 +79,16 @@
     @include tablet {
       @include letFlex(row-reverse, space-between, center);
     }
+    p {
+      @include tablet {
+        max-width: 70%;
+      }
+    }
   }
   &:nth-child(2n) {
     @include tablet {
       @include letFlex(row, space-between, center);
+      gap: 10em;
     }
   }
   .image-container1 {

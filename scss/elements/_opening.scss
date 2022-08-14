@@ -5,6 +5,7 @@
 }
 
 .opening {
+  @include letFlex(column, center, center);
   padding-bottom: 4em;
   .opening-h2 {
     position: relative;
@@ -21,9 +22,11 @@
   p {
     font-family: $openSans;
     text-align: center;
+    width: 300px;
   }
   a {
     width: 100%;
+    max-width: 310px;
     background-color: $colorMain;
     display: inline-block;
     text-align: center;
