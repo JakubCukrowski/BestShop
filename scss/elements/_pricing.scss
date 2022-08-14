@@ -1,0 +1,95 @@
+.pricing {
+  .pricing-wrapper {
+    width: 100%;
+  }
+  .pricing-offer {
+    @include letFlex(column, flex-end, center);
+    p {
+      font-size: 4em;
+      font-family: $openSans;
+      font-weight: 300;
+    }
+    .price-red {
+      color: $colorReddish;
+    }
+    .price-green {
+      color: $colorGreen;
+    }
+    .price-blue {
+      color: $colorMain;
+    }
+  }
+  h2 {
+    margin-top: 2em;
+    margin-bottom: 1em;
+    text-align: center;
+    font-size: 3em;
+    font-family: $raleway;
+  }
+  .pricing-box {
+    @include letFlex(row, space-between, center);
+    padding: 1.5em 1em;
+    border-radius: 0.8em;
+    margin: 0 auto 3em auto;
+    position: relative;
+    @include tablet {
+      flex-direction: column;
+      justify-content: center;
+    }
+    &:after {
+      content: "Begin";
+      position: absolute;
+      padding: 1em 2.5em;
+      border-radius: 2em;
+      bottom: -3.2em;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      font-family: $openSans;
+      color: white;
+    }
+  }
+  .utilities {
+    line-height: 3em;
+    p {
+      @include letFlex(row, flex-start, center);
+    }
+  }
+  h3 {
+    font-size: 1.3em;
+    font-weight: bold;
+    font-family: $raleway;
+  }
+  .border-red {
+    border: 1px solid $colorReddish;
+    width: 90%;
+    @include tablet {
+      width: 70%;
+    }
+    &:after {
+      background-color: $colorReddish;
+    }
+  }
+  .border-blue {
+    border: 1px solid $colorMain;
+    @include tablet {
+      width: 80%;
+    }
+    &:after {
+      background-color: $colorMain;
+    }
+  }
+  .border-green {
+    border: 1px solid $colorGreen;
+    width: 90%;
+    @include tablet {
+      width: 70%;
+    }
+    &:after {
+      background-color: $colorGreen;
+    }
+  }
+  img {
+    margin-right: 0.5em;
+  }
+}
+

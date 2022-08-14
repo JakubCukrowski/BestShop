@@ -1,0 +1,116 @@
+.form-wrapper {
+  padding: 0.8em;
+  .left-side {
+    h2 {
+      margin-top: 2em;
+      font-size: 2.5em;
+      font-family: $raleway;
+    }
+    p {
+      font-family: $raleway;
+      margin-top: 0.2em;
+      margin-bottom: 1.5em;
+    }
+  }
+}
+
+.mail {
+  @include letFlex(row, flex-start, flex-start);
+  p {
+    color: $colorGray;
+    font-weight: 400;
+  }
+}
+
+.phone {
+  @include letFlex(row, flex-start, flex-start);
+  margin-top: -15px;
+  p {
+    color: $colorGray;
+    font-weight: 400;
+  }
+}
+
+.right-side {
+  @include letFlex(column, center, flex-start);
+  label {
+    display: block;
+    font-family: $openSans;
+  }
+  .name-label {
+    color: $colorMain;
+    font-size: 0.8em;
+    letter-spacing: 0.2em;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+  .email-label {
+    color: $colorMain;
+    font-size: 0.8em;
+    letter-spacing: 0.2em;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+}
+
+input[type="text"],
+input[type="email"] {
+  border: none;
+  border-bottom: 1px solid rgba($colorGray, 0.3);
+  width: 100%;
+}
+
+input[type="email"] {
+  margin-bottom: 2em;
+}
+
+.consent-confirmation {
+  @include letFlex(row, center, flex-start);
+  margin-top: 2.6em;
+  gap: 1em;
+  label {
+    font-size: 0.6em;
+    font-family: $openSans;
+  }
+  #consent {
+    position: relative;
+    width: 1em;
+    height: 1em;
+    &:after {
+      content: "";
+      width: 1em;
+      height: 1em;
+      position: absolute;
+      background-color: white;
+      border: 1px solid rgba($colorGray, 0.6);
+      border-radius: 4px;
+    }
+    &:checked ~ .fa-check {
+      display: block;
+    }
+  }
+}
+
+.input-box {
+  position: relative;
+  .fa-check {
+    position: absolute;
+    top: 2px;
+    left: 2px;
+    color: $colorMain;
+    font-size: 0.8em;
+    display: none;
+  }
+}
+
+.submit-btn {
+  align-self: end;
+  margin-top: 2em;
+  margin-bottom: 2.5em;
+  padding: 1em 3.5em;
+  background-color: $colorMain;
+  border-radius: 3em;
+  color: white;
+  font-family: $openSans;
+  font-weight: 600;
+}

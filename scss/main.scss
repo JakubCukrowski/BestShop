@@ -1,0 +1,15 @@
+@import '../node_modules/scss-reset/src/scss/_reset.scss';
+@import "generics/_mixins.scss";
+@import "generics/all";
+@import "generics/colors";
+@import "generics/variables";
+@import "elements/header";
+@import "elements/opening";
+@import "elements/statistics";
+@import "elements/benefits";
+@import "elements/pricing";
+@import "elements/form";
+@import "elements/footer";
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&display=swap");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css");

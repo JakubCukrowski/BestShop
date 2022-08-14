@@ -1,0 +1,109 @@
+.benefits {
+  background-color: #F7F7F7;
+  padding: 2.5em 0;
+  border: 1px solid $colorLightGray;
+}
+
+.benefits-description:not(:last-child) {
+  border: 2px solid $colorLightGray;
+  background-color: white;
+  padding: 3em 1.5em;
+  border-radius: 6px;
+  h2 {
+    font-size: 1.8em;
+    font-family: $raleway;
+    font-weight: 400;
+    margin-top: 1.5em;
+    margin-bottom: 1.8em;
+  }
+  &:nth-child(2n) {
+    margin-top: 2em;
+    margin-bottom: 2em;
+  }
+  p {
+    font-size: 1em;
+    text-align: left;
+    font-family: $openSans;
+  }
+}
+
+.benefits-description:last-child {
+  border: 2px solid $colorLightGray;
+  border-radius: 6px;
+  h2 {
+    font-size: 1.8em;
+    font-family: $raleway;
+    font-weight: 400;
+    margin-bottom: 1.8em;
+  }
+  p {
+    font-size: 1em;
+    text-align: left;
+    font-family: $openSans;
+  }
+}
+
+.trumpet-wrapper {
+  background-color: $colorGreen;
+  border-radius: 6px;
+}
+
+.txt-wrapper {
+  background-color: white;
+  padding: 2.5em 1em;
+  border-radius: 6px;
+}
+
+.benefits-text {
+  @include tablet {
+    @include letFlex(column, center, flex-start);
+  }
+  p {
+    @include tablet {
+      width: 70%;
+    }
+  }
+}
+
+.benefits-description {
+  &:first-child {
+    @include tablet {
+      @include letFlex(row-reverse, space-between, center);
+    }
+  }
+  &:nth-child(2n) {
+    @include tablet {
+      @include letFlex(row, space-between, center);
+    }
+  }
+  .image-container1 {
+    position: relative;
+    z-index: 99;
+    &:before {
+      content: "";
+      width: 50%;
+      height: 80%;
+      background-color: $colorReddish;
+      position: absolute;
+      top: -24px;
+      right: -4px;
+      transform: rotate(45deg);
+      z-index: -10;
+      border-radius: 40%;
+    }
+  }
+  .image-container2 {
+    position: relative;
+    z-index: 100;
+    &:before {
+      content: "";
+      width: 90%;
+      height: 90%;
+      background-color: $colorMain;
+      position: absolute;
+      border-radius: 50%;
+      z-index: -1;
+      right: 1.6em;
+    }
+  }
+}
