@@ -472,7 +472,7 @@ header .hamburger:after {
   display: flex;
 }
 
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 736px) {
   .statistics .statistics-wrapper {
     width: 100%;
     flex-direction: row;
@@ -489,7 +489,7 @@ header .hamburger:after {
   display: flex;
 }
 
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 736px) {
   .statistics .statistics-details:nth-child(2n) {
     align-self: flex-end;
   }
@@ -615,7 +615,7 @@ header .hamburger:after {
   padding: 2.5em 1em;
 }
 
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 736px) {
   .benefits-text {
     flex-direction: column;
     justify-content: center;
@@ -724,7 +724,7 @@ header .hamburger:after {
   position: relative;
 }
 
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 736px) {
   .pricing .pricing-box {
     flex-direction: column;
     justify-content: center;
@@ -765,7 +765,7 @@ header .hamburger:after {
   border: 1px solid #fb3b64;
 }
 
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 736px) {
   .pricing .border-red {
     width: 70%;
   }
@@ -779,7 +779,7 @@ header .hamburger:after {
   border: 1px solid #08a6e4;
 }
 
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 736px) {
   .pricing .border-blue {
     width: 80%;
   }
@@ -794,7 +794,7 @@ header .hamburger:after {
   border: 1px solid #55dfb4;
 }
 
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 736px) {
   .pricing .border-green {
     width: 70%;
   }
