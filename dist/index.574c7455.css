@@ -644,7 +644,7 @@ header a {
   background-color: #fff;
   border: 2px solid #f7f7f7;
   border-radius: 6px;
-  padding: 1.5em;
+  padding: 2.5em;
 }
 
 .benefits-description:not(:last-child) h2 {
@@ -673,7 +673,7 @@ header a {
 
 @media screen and (min-width: 736px) {
   .benefits-description:last-child {
-    height: 280px;
+    height: 370px;
     width: 100%;
     flex-direction: row;
     justify-content: center;
@@ -729,7 +729,13 @@ header a {
     align-items: flex-start;
     display: flex;
   }
+}
 
+.benefits-description:first-child {
+  padding-top: 3.5em !important;
+}
+
+@media screen and (min-width: 736px) {
   .benefits-description:first-child {
     flex-direction: row-reverse;
     justify-content: space-between;
