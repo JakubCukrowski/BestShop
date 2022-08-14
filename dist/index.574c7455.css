@@ -554,6 +554,13 @@ header a {
   }
 }
 
+@media screen and (min-width: 992px) {
+  .statistics .statistics-wrapper {
+    max-width: 800px;
+    margin: 3.5em auto;
+  }
+}
+
 .statistics .statistics-details {
   flex-direction: column;
   justify-content: center;
