@@ -1,6 +1,10 @@
 .pricing {
   .pricing-wrapper {
     width: 100%;
+    @include desktop {
+      @include letFlex(row, center, center);
+      gap: 30px;
+    }
   }
   .pricing-offer {
     @include letFlex(column, flex-end, center);
@@ -65,6 +69,9 @@
     @include tablet {
       width: 70%;
     }
+    @include desktop {
+      height: 420px;
+    }
     &:after {
       background-color: $colorReddish;
     }
@@ -73,6 +80,10 @@
     border: 1px solid $colorMain;
     @include tablet {
       width: 80%;
+    }
+    @include desktop {
+      height: 470px;
+      box-shadow: 0 0 10px rgba($colorMain, 0.8);
     }
     &:after {
       background-color: $colorMain;
@@ -83,6 +94,9 @@
     width: 90%;
     @include tablet {
       width: 70%;
+    }
+    @include desktop {
+      height: 420px;
     }
     &:after {
       background-color: $colorGreen;

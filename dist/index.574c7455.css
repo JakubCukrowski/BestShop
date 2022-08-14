@@ -794,6 +794,16 @@ header a {
   width: 100%;
 }
 
+@media screen and (min-width: 992px) {
+  .pricing .pricing-wrapper {
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    display: flex;
+  }
+}
+
 .pricing .pricing-offer {
   flex-direction: column;
   justify-content: flex-end;
@@ -885,6 +895,12 @@ header a {
   }
 }
 
+@media screen and (min-width: 992px) {
+  .pricing .border-red {
+    height: 420px;
+  }
+}
+
 .pricing .border-red:after {
   background-color: #fb3b64;
 }
@@ -896,6 +912,13 @@ header a {
 @media screen and (min-width: 736px) {
   .pricing .border-blue {
     width: 80%;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .pricing .border-blue {
+    height: 470px;
+    box-shadow: 0 0 10px #08a6e4cc;
   }
 }
 
@@ -911,6 +934,12 @@ header a {
 @media screen and (min-width: 736px) {
   .pricing .border-green {
     width: 70%;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .pricing .border-green {
+    height: 420px;
   }
 }
 
