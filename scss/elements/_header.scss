@@ -1,5 +1,8 @@
 .header-menu {
   position: relative;
+  @include desktop {
+    display: none;
+  }
   .hamburger {
     position: fixed;
     z-index: 10000;
@@ -99,14 +102,38 @@ header {
     z-index: 999;
     .menu {
       display: none;
+      @include desktop {
+        display: block;
+        @include letFlex(row, space-between, center);
+        text-transform: uppercase;
+      }
+      li {
+        padding: 1em 1.8em;
+      }
+      a {
+        text-decoration: none;
+        color: $colorGray;
+        font-size: 0.65em;
+        font-family: $openSans;
+        font-weight: 700;
+        letter-spacing: 0.2em;
+        padding: 0 0.5em 2.3em 0.5em;
+        transition: 0.5s;
+        &:hover {
+          border-bottom: 4px solid $colorMain;
+          color: black;
+        }
+      }
     }
   }
   h1 {
     font-size: 1.6em;
     font-family: $openSans;
     font-weight: 300;
+  }
+  a {
+    text-decoration: none;
     color: $colorMain;
   }
-
 }
 

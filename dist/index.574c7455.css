@@ -296,6 +296,10 @@ template {
   display: none;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 @media screen and (min-width: 992px) {
   body {
     min-height: 100vh;
@@ -311,6 +315,12 @@ template {
 
 .header-menu {
   position: relative;
+}
+
+@media screen and (min-width: 992px) {
+  .header-menu {
+    display: none;
+  }
 }
 
 .header-menu .hamburger {
@@ -429,11 +439,45 @@ header .header .menu {
   display: none;
 }
 
+@media screen and (min-width: 992px) {
+  header .header .menu {
+    text-transform: uppercase;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+  }
+}
+
+header .header .menu li {
+  padding: 1em 1.8em;
+}
+
+header .header .menu a {
+  color: #a5a5a5;
+  letter-spacing: .2em;
+  padding: 0 .5em 2.3em;
+  font-family: Open Sans, sans-serif;
+  font-size: .65em;
+  font-weight: 700;
+  text-decoration: none;
+  transition: all .5s;
+}
+
+header .header .menu a:hover {
+  color: #000;
+  border-bottom: 4px solid #08a6e4;
+}
+
 header h1 {
-  color: #08a6e4;
   font-family: Open Sans, sans-serif;
   font-size: 1.6em;
   font-weight: 300;
+}
+
+header a {
+  color: #08a6e4;
+  text-decoration: none;
 }
 
 .background-image {
