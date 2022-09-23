@@ -78,12 +78,12 @@
   }
   .border-blue {
     border: 1px solid $colorMain;
+    box-shadow: 0 0 10px rgba($colorMain, 0.8);
     @include tablet {
       width: 80%;
     }
     @include desktop {
       height: 470px;
-      box-shadow: 0 0 10px rgba($colorMain, 0.8);
     }
     &:after {
       background-color: $colorMain;
