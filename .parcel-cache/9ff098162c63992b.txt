@@ -6,7 +6,7 @@
 75C:\Users\jdcuk\Desktop\BestShop\node_modules\xxhash-wasm\cjs\xxhash-wasm.js133049359226636283 0
 53C:\Users\jdcuk\Desktop\BestShop\node_modules\anymatch133049368845821322 1
 92C:\Users\jdcuk\Desktop\BestShop\node_modules\@swc\helpers\lib\_initializer_warning_helper.js133049359231010833 0
-37C:\Users\jdcuk\Desktop\BestShop\.idea133084375733867898 1
+37C:\Users\jdcuk\Desktop\BestShop\.idea133101599364106941 1
 75C:\Users\jdcuk\Desktop\BestShop\node_modules\@parcel\node-resolver-core\lib133049359231635761 1
 85C:\Users\jdcuk\Desktop\BestShop\node_modules\lmdb\dependencies\lz4\lib\dll\liblz4.def133049359232104462 0
 58C:\Users\jdcuk\Desktop\BestShop\node_modules\tslib\modules133049359227886157 1
@@ -22,7 +22,7 @@
 67C:\Users\jdcuk\Desktop\BestShop\node_modules\supports-color\license133049359226480001 0
 96C:\Users\jdcuk\Desktop\BestShop\node_modules\caniuse-lite\data\features\requestanimationframe.js133049359235541596 0
 135C:\Users\jdcuk\Desktop\BestShop\node_modules\@parcel\core\test\fixtures\plugins\node_modules\parcel-transformer-no-engines\package.json133049359233198096 0
-35C:\Users\jdcuk\Desktop\BestShop\app133084373911107871 1
+35C:\Users\jdcuk\Desktop\BestShop\app133101600312963596 1
 38C:\Users\jdcuk\Desktop\BestShop\assets133078745993528781 1
 80C:\Users\jdcuk\Desktop\BestShop\node_modules\mdn-data\css\properties.schema.json133049359229760969 0
 76C:\Users\jdcuk\Desktop\BestShop\node_modules\@parcel\plugin\lib\PluginAPI.js133049359226792534 0
@@ -36,7 +36,7 @@
 51C:\Users\jdcuk\Desktop\BestShop\node_modules\@babel133049359217414718 1
 56C:\Users\jdcuk\Desktop\BestShop\node_modules\yaml\map.js133049359228979788 0
 54C:\Users\jdcuk\Desktop\BestShop\node_modules\is-number133049368845821322 1
-36C:\Users\jdcuk\Desktop\BestShop\dist133084373912413715 1
+36C:\Users\jdcuk\Desktop\BestShop\dist133101600280396258 1
 70C:\Users\jdcuk\Desktop\BestShop\node_modules\chokidar\lib\constants.js133049368845665096 0
 68C:\Users\jdcuk\Desktop\BestShop\node_modules\escalade\dist\index.mjs133049359227886157 0
 69C:\Users\jdcuk\Desktop\BestShop\node_modules\htmlparser2\package.json133049359228198632 0
@@ -53,7 +53,7 @@
 76C:\Users\jdcuk\Desktop\BestShop\node_modules\caniuse-lite\data\regions\AS.js133049359230542128 0
 81C:\Users\jdcuk\Desktop\BestShop\node_modules\caniuse-lite\dist\unpacker\region.js133049359235541596 0
 76C:\Users\jdcuk\Desktop\BestShop\node_modules\scss-reset\src\css\main.css.map133049363656389750 0
-42C:\Users\jdcuk\Desktop\BestShop\index.html133084373789302839 0
+42C:\Users\jdcuk\Desktop\BestShop\index.html133101552447540497 0
 97C:\Users\jdcuk\Desktop\BestShop\node_modules\caniuse-lite\data\features\keyboardevent-location.js133049359234760430 0
 75C:\Users\jdcuk\Desktop\BestShop\node_modules\yaml\dist\Document-9b4560a1.js133049359227573689 0
 91C:\Users\jdcuk\Desktop\BestShop\node_modules\caniuse-lite\data\features\css-font-palette.js133049359232885634 0
@@ -111,7 +111,7 @@
 63C:\Users\jdcuk\Desktop\BestShop\node_modules\timsort\.npmignore133049359226792534 0
 66C:\Users\jdcuk\Desktop\BestShop\node_modules\ansi-styles\readme.md133049359227261221 0
 76C:\Users\jdcuk\Desktop\BestShop\node_modules\caniuse-lite\data\regions\AW.js133049359231010833 0
-45C:\Users\jdcuk\Desktop\BestShop\scss\elements133078863140444103 1
+45C:\Users\jdcuk\Desktop\BestShop\scss\elements133101599344410841 1
 63C:\Users\jdcuk\Desktop\BestShop\node_modules\path-type\index.js133049359226948776 0
 81C:\Users\jdcuk\Desktop\BestShop\node_modules\caniuse-lite\data\features\srcset.js133049359235854067 0
 82C:\Users\jdcuk\Desktop\BestShop\node_modules\electron-to-chromium\full-versions.js133049359227573689 0
@@ -175,7 +175,7 @@
 68C:\Users\jdcuk\Desktop\BestShop\node_modules\@jridgewell\gen-mapping133049359228511094 1
 75C:\Users\jdcuk\Desktop\BestShop\node_modules\binary-extensions\package.json133049368845821322 0
 107C:\Users\jdcuk\Desktop\BestShop\node_modules\htmlnano\docs\versioned_docs\version-1.1.1\010-introduction.md133049359231323292 0
-62C:\Users\jdcuk\Desktop\BestShop\scss\elements\_calculator.scss133078863140434134 0
+62C:\Users\jdcuk\Desktop\BestShop\scss\elements\_calculator.scss133101599344410256 0
 83C:\Users\jdcuk\Desktop\BestShop\node_modules\type-fest\source\conditional-keys.d.ts133049359228667322 0
 76C:\Users\jdcuk\Desktop\BestShop\node_modules\caniuse-lite\data\regions\RO.js133049359235541596 0
 78C:\Users\jdcuk\Desktop\BestShop\node_modules\csso\lib\replace\property\font.js133049359230542128 0
@@ -332,7 +332,7 @@
 81C:\Users\jdcuk\Desktop\BestShop\node_modules\utility-types\dist\mapped-types.d.ts133049359229760969 0
 73C:\Users\jdcuk\Desktop\BestShop\node_modules\csso\lib\clean\WhiteSpace.js133049359231167066 0
 88C:\Users\jdcuk\Desktop\BestShop\node_modules\caniuse-lite\data\features\localecompare.js133049359234916676 0
-57C:\Users\jdcuk\Desktop\BestShop\dist\Twitter.41e2b00a.svg133084150989962869 0
+57C:\Users\jdcuk\Desktop\BestShop\dist\Twitter.41e2b00a.svg133101576639591357 0
 49C:\Users\jdcuk\Desktop\BestShop\node_modules\csso133049359231323292 1
 53C:\Users\jdcuk\Desktop\BestShop\node_modules\domutils133049359229604734 1
 81C:\Users\jdcuk\Desktop\BestShop\node_modules\@swc\helpers\lib\_sliced_to_array.js133049359231635761 0
@@ -1665,7 +1665,7 @@
 76C:\Users\jdcuk\Desktop\BestShop\node_modules\caniuse-lite\data\regions\NZ.js133049359235229224 0
 66C:\Users\jdcuk\Desktop\BestShop\node_modules\is-arrayish\README.md133049359226948776 0
 84C:\Users\jdcuk\Desktop\BestShop\node_modules\@parcel\runtime-browser-hmr\lib\loaders133049359226948776 1
-53C:\Users\jdcuk\Desktop\BestShop\dist\Eye.e60e75e7.svg133084150989882893 0
+53C:\Users\jdcuk\Desktop\BestShop\dist\Eye.e60e75e7.svg133101576639074827 0
 68C:\Users\jdcuk\Desktop\BestShop\node_modules\posthtml-render\license133049359226480001 0
 102C:\Users\jdcuk\Desktop\BestShop\node_modules\@parcel\runtime-js\lib\helpers\browser\import-polyfill.js133049359229917198 0
 70C:\Users\jdcuk\Desktop\BestShop\node_modules\posthtml-render\readme.md133049359227729928 0
@@ -1823,7 +1823,7 @@
 78C:\Users\jdcuk\Desktop\BestShop\node_modules\lmdb\dependencies\lz4\lib\lz4hc.h133049359232260697 0
 75C:\Users\jdcuk\Desktop\BestShop\node_modules\nth-check\lib\esm\index.js.map133049359229136029 0
 90C:\Users\jdcuk\Desktop\BestShop\node_modules\caniuse-lite\data\features\arrow-functions.js133049359230542128 0
-57C:\Users\jdcuk\Desktop\BestShop\dist\Macbook.a1f4b436.png133084150989962869 0
+57C:\Users\jdcuk\Desktop\BestShop\dist\Macbook.a1f4b436.png133101576638946044 0
 69C:\Users\jdcuk\Desktop\BestShop\node_modules\normalize-path\README.md133049368845821322 0
 75C:\Users\jdcuk\Desktop\BestShop\node_modules\nth-check\lib\esm\package.json133049359228198632 0
 73C:\Users\jdcuk\Desktop\BestShop\node_modules\nth-check\lib\esm\parse.d.ts133049359230229662 0
@@ -1874,7 +1874,7 @@
 126C:\Users\jdcuk\Desktop\BestShop\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.linux-arm-gnueabihf.node133049359231167066 0
 93C:\Users\jdcuk\Desktop\BestShop\node_modules\@babel\highlight\node_modules\chalk\templates.js133049359227886157 0
 90C:\Users\jdcuk\Desktop\BestShop\node_modules\caniuse-lite\data\features\background-sync.js133049359231323292 0
-55C:\Users\jdcuk\Desktop\BestShop\dist\Close.22110c7d.svg133084150989882893 0
+55C:\Users\jdcuk\Desktop\BestShop\dist\Close.22110c7d.svg133101576639074827 0
 65C:\Users\jdcuk\Desktop\BestShop\node_modules\msgpackr-extract\src133049359227573689 1
 77C:\Users\jdcuk\Desktop\BestShop\node_modules\msgpackr-extract\src\extract.cpp133049359227729928 0
 93C:\Users\jdcuk\Desktop\BestShop\node_modules\caniuse-lite\data\features\css-initial-letter.js133049359233041872 0
@@ -1893,7 +1893,7 @@
 66C:\Users\jdcuk\Desktop\BestShop\node_modules\msgpackr\package.json133049359229292281 0
 84C:\Users\jdcuk\Desktop\BestShop\node_modules\@parcel\packager-svg\src\SVGPackager.js133049359227261221 0
 63C:\Users\jdcuk\Desktop\BestShop\node_modules\msgpackr\README.md133049359229604734 0
-58C:\Users\jdcuk\Desktop\BestShop\dist\Facebook.389b15e8.svg133084150989962869 0
+58C:\Users\jdcuk\Desktop\BestShop\dist\Facebook.389b15e8.svg133101576639074827 0
 78C:\Users\jdcuk\Desktop\BestShop\node_modules\css-tree\lib\syntax\pseudo\has.js133049359231323292 0
 65C:\Users\jdcuk\Desktop\BestShop\node_modules\msgpackr\unpack.d.ts133049359229917198 0
 64C:\Users\jdcuk\Desktop\BestShop\node_modules\dotenv\CHANGELOG.md133049359226792534 0
@@ -2214,7 +2214,7 @@
 68C:\Users\jdcuk\Desktop\BestShop\node_modules\htmlnano\docs\README.md133049359231792007 0
 87C:\Users\jdcuk\Desktop\BestShop\node_modules\@swc\helpers\lib\_sliced_to_array_loose.js133049359231635761 0
 70C:\Users\jdcuk\Desktop\BestShop\node_modules\htmlnano\docs\sidebars.js133049359230385899 0
-57C:\Users\jdcuk\Desktop\BestShop\dist\Catalog.8507218e.svg133084150989962869 0
+57C:\Users\jdcuk\Desktop\BestShop\dist\Catalog.8507218e.svg133101576639591357 0
 96C:\Users\jdcuk\Desktop\BestShop\node_modules\caniuse-lite\data\features\text-underline-offset.js133049359236010309 0
 88C:\Users\jdcuk\Desktop\BestShop\node_modules\electron-to-chromium\chromium-versions.json133049359228198632 0
 90C:\Users\jdcuk\Desktop\BestShop\node_modules\caniuse-lite\data\features\abortcontroller.js133049359227261221 0
@@ -2443,7 +2443,7 @@
 72C:\Users\jdcuk\Desktop\BestShop\node_modules\dom-serializer\lib\index.js133049359227886157 0
 85C:\Users\jdcuk\Desktop\BestShop\node_modules\chrome-trace-event\dist\trace-event.d.ts133049359227886157 0
 83C:\Users\jdcuk\Desktop\BestShop\node_modules\dom-serializer\lib\esm\foreignNames.js133049359226948776 0
-54C:\Users\jdcuk\Desktop\BestShop\dist\index.3b5d40e2.js133084373912413715 0
+54C:\Users\jdcuk\Desktop\BestShop\dist\index.3b5d40e2.js133101600280386300 0
 82C:\Users\jdcuk\Desktop\BestShop\node_modules\dom-serializer\lib\esm\index.d.ts.map133049359228667322 0
 76C:\Users\jdcuk\Desktop\BestShop\node_modules\dom-serializer\lib\esm\index.js133049359227573689 0
 80C:\Users\jdcuk\Desktop\BestShop\node_modules\dom-serializer\lib\esm\package.json133049359228042394 0
@@ -2886,7 +2886,7 @@
 76C:\Users\jdcuk\Desktop\BestShop\node_modules\caniuse-lite\data\regions\LT.js133049359234916676 0
 76C:\Users\jdcuk\Desktop\BestShop\node_modules\caniuse-lite\data\regions\MC.js133049359234916676 0
 80C:\Users\jdcuk\Desktop\BestShop\node_modules\@parcel\runtime-js\src\JSRuntime.js133049359230542128 0
-61C:\Users\jdcuk\Desktop\BestShop\dist\BestShop.3464ddca.js.map133084150990042831 0
+61C:\Users\jdcuk\Desktop\BestShop\dist\BestShop.3464ddca.js.map133101576639128243 0
 101C:\Users\jdcuk\Desktop\BestShop\node_modules\@parcel\package-manager\test\fixtures\empty\package.json133049359230854614 0
 76C:\Users\jdcuk\Desktop\BestShop\node_modules\caniuse-lite\data\regions\MH.js133049359235072902 0
 83C:\Users\jdcuk\Desktop\BestShop\node_modules\@parcel\runtime-js\lib\helpers\browser133049359230698360 1
@@ -4140,7 +4140,7 @@
 90C:\Users\jdcuk\Desktop\BestShop\node_modules\@parcel\core\test\ParcelConfigRequest.test.js133049359232260697 0
 82C:\Users\jdcuk\Desktop\BestShop\node_modules\@parcel\core\test\PublicAsset.test.js133049359232416930 0
 87C:\Users\jdcuk\Desktop\BestShop\node_modules\@parcel\core\test\PublicDependency.test.js133049359232416930 0
-60C:\Users\jdcuk\Desktop\BestShop\dist\Background.96fc9b9b.png133084150989962869 0
+60C:\Users\jdcuk\Desktop\BestShop\dist\Background.96fc9b9b.png133101576638956064 0
 84C:\Users\jdcuk\Desktop\BestShop\node_modules\@parcel\core\test\TargetRequest.test.js133049359232729404 0
 86C:\Users\jdcuk\Desktop\BestShop\node_modules\@parcel\core\test\fixtures\common-targets133049359232885634 1
 78C:\Users\jdcuk\Desktop\BestShop\node_modules\@parcel\core\test\fixtures\config133049359228823561 1
@@ -4402,18 +4402,18 @@
 56C:\Users\jdcuk\Desktop\BestShop\node_modules\.bin\terser133049359236635246 0
 60C:\Users\jdcuk\Desktop\BestShop\node_modules\.bin\terser.cmd133049359236635246 0
 60C:\Users\jdcuk\Desktop\BestShop\node_modules\.bin\terser.ps1133049359236635246 0
-55C:\Users\jdcuk\Desktop\BestShop\dist\Arrow.7c8fdf4f.svg133084150989962869 0
-57C:\Users\jdcuk\Desktop\BestShop\dist\BestShop.3464ddca.js133084150989962869 0
-61C:\Users\jdcuk\Desktop\BestShop\dist\Ckechmark-1.80ec2266.svg133084150989962869 0
-58C:\Users\jdcuk\Desktop\BestShop\dist\index.3b5d40e2.js.map133084373912413715 0
-55C:\Users\jdcuk\Desktop\BestShop\dist\index.574c7455.css133084150989962869 0
-59C:\Users\jdcuk\Desktop\BestShop\dist\index.574c7455.css.map133084150990042831 0
-47C:\Users\jdcuk\Desktop\BestShop\dist\index.html133084373790319521 0
-56C:\Users\jdcuk\Desktop\BestShop\dist\iPhone.18df9ac3.png133084150989962869 0
-59C:\Users\jdcuk\Desktop\BestShop\dist\Mail Icon.b0bc1804.svg133084150989962869 0
-56C:\Users\jdcuk\Desktop\BestShop\dist\Person.e8721018.svg133084150989962869 0
-60C:\Users\jdcuk\Desktop\BestShop\dist\Phone Icon.b10af3a5.svg133084150989962869 0
-57C:\Users\jdcuk\Desktop\BestShop\dist\Trumpet.041da3b3.png133084150989962869 0
+55C:\Users\jdcuk\Desktop\BestShop\dist\Arrow.7c8fdf4f.svg133101576639591357 0
+57C:\Users\jdcuk\Desktop\BestShop\dist\BestShop.3464ddca.js133101576639074827 0
+61C:\Users\jdcuk\Desktop\BestShop\dist\Ckechmark-1.80ec2266.svg133101576639591357 0
+58C:\Users\jdcuk\Desktop\BestShop\dist\index.3b5d40e2.js.map133101600280396258 0
+55C:\Users\jdcuk\Desktop\BestShop\dist\index.574c7455.css133101599345916519 0
+59C:\Users\jdcuk\Desktop\BestShop\dist\index.574c7455.css.map133101599345926488 0
+47C:\Users\jdcuk\Desktop\BestShop\dist\index.html133101576639591357 0
+56C:\Users\jdcuk\Desktop\BestShop\dist\iPhone.18df9ac3.png133101576639348300 0
+59C:\Users\jdcuk\Desktop\BestShop\dist\Mail Icon.b0bc1804.svg133101576639591357 0
+56C:\Users\jdcuk\Desktop\BestShop\dist\Person.e8721018.svg133101576639591357 0
+60C:\Users\jdcuk\Desktop\BestShop\dist\Phone Icon.b10af3a5.svg133101576639074827 0
+57C:\Users\jdcuk\Desktop\BestShop\dist\Trumpet.041da3b3.png133101576638932366 0
 48C:\Users\jdcuk\Desktop\BestShop\assets\Arrow.svg133078745089658509 0
 53C:\Users\jdcuk\Desktop\BestShop\assets\Background.png133029857558967550 0
 54C:\Users\jdcuk\Desktop\BestShop\assets\Checkmark-1.svg133029857558683868 0
@@ -4423,8 +4423,8 @@
 49C:\Users\jdcuk\Desktop\BestShop\assets\iPhone.png133029857559176832 0
 53C:\Users\jdcuk\Desktop\BestShop\assets\Phone Icon.svg133029857559873775 0
 50C:\Users\jdcuk\Desktop\BestShop\assets\Trumpet.png133029857559774149 0
-42C:\Users\jdcuk\Desktop\BestShop\app\app.js133084373911107871 0
+42C:\Users\jdcuk\Desktop\BestShop\app\app.js133101600312958807 0
 50C:\Users\jdcuk\Desktop\BestShop\.idea\BestShop.iml133049357975744515 0
 49C:\Users\jdcuk\Desktop\BestShop\.idea\modules.xml133049357975900744 0
 54C:\Users\jdcuk\Desktop\BestShop\.idea\watcherTasks.xml133049363042927935 0
-51C:\Users\jdcuk\Desktop\BestShop\.idea\workspace.xml133084375733867898 0
+51C:\Users\jdcuk\Desktop\BestShop\.idea\workspace.xml133101599364106941 0
