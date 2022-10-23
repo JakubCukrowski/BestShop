@@ -19,10 +19,11 @@ packages.children[2].value = 0
 totalPrice.textContent = "$" + 0
 terminalPriceFromCheckBox.value = 0
 
+
 const inputPrice = (e) => {
     for (const item of listItems) {
         if (item.dataset.id === e.target.id) {
-            if (e.currentTarget.value.length > 0) {
+            if (e.currentTarget.value.length > 0 && e.currentTarget.value > 0) {
                 item.classList.add("open")
                 item.children[1].textContent = e.target.value + "*" + 0.5
                 item.children[2].textContent = "$" + (e.target.value * 0.5)
@@ -136,7 +137,10 @@ const summaryTotal = () => {
     const accountingPrice = accountingPriceFromCheckBox.value
     const terminalPrice = terminalPriceFromCheckBox.value
 
-    totalPrice.textContent = "$" + ((+productsPrice + +ordersPrice) * 0.5 + +packagePrice + +accountingPrice + +terminalPrice)
+    totalPrice.textContent = "$" + ((+productsPrice + +ordersPrice)
+        * 0.5 + +packagePrice
+        + +accountingPrice
+        + +terminalPrice)
 }
 
 productsQuantity.addEventListener("input", inputPrice)
@@ -145,6 +149,11 @@ dropdownInput.addEventListener("click", togglePackages)
 dropdownMenu.addEventListener("click", chooseFromDrop)
 accountingPrice.addEventListener("change", handleAccounting)
 terminalPrice.addEventListener("change", handleTerminal)
+
+
+
+
+
 
 
 

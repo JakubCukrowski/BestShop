@@ -16,7 +16,7 @@ totalPrice.textContent = "$0";
 terminalPriceFromCheckBox.value = 0;
 const inputPrice = (e)=>{
     for (const item of listItems)if (item.dataset.id === e.target.id) {
-        if (e.currentTarget.value.length > 0) {
+        if (e.currentTarget.value.length > 0 && e.currentTarget.value > 0) {
             item.classList.add("open");
             item.children[1].textContent = e.target.value + "*" + 0.5;
             item.children[2].textContent = "$" + e.target.value * 0.5;

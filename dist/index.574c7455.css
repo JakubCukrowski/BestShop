@@ -1242,10 +1242,6 @@ footer .right-footer-section {
   display: block;
 }
 
-.calc .form__checkbox .consent__text {
-  padding-top: 4px;
-}
-
 .calc__summary {
   width: 100%;
   flex-direction: column;
@@ -1296,6 +1292,11 @@ footer .right-footer-section {
 .calc__summary .list__item .item__price {
   font-size: 1.125rem;
   font-weight: 700;
+}
+
+label {
+  gap: 10px;
+  display: flex;
 }
 
 /*# sourceMappingURL=index.574c7455.css.map */
